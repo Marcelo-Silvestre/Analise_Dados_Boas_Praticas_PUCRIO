@@ -111,7 +111,7 @@ Alguns crimes apresentam maior variabilidade, porém sem métrica formal de vola
 
 ---
 
-## 📈 6. Principais Insights
+##  6. Principais Insights
 
 - A análise por taxa é mais adequada que valores absolutos  
 - A normalização por população é essencial para comparações justas  
@@ -121,7 +121,7 @@ Alguns crimes apresentam maior variabilidade, porém sem métrica formal de vola
 
 ---
 
-## 🛠️ 7. Tecnologias Utilizadas
+##  7. Tecnologias Utilizadas
 
 - Python  
 - Pandas  
