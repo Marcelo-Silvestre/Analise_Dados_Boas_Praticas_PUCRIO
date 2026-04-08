@@ -33,14 +33,14 @@ As hipóteses consideradas neste MVP são:
 
 ## 3. Bases de Dados
 
-### 🔹 Ocorrências Criminais (SINESP)
+### Ocorrências Criminais (SINESP)
 - UF  
 - Tipo de Crime  
 - Ano  
 - Mês  
 - Ocorrências  
 
-### 🔹 População (IBGE)
+### População (IBGE)
 - UF  
 - Ano  
 - População  
