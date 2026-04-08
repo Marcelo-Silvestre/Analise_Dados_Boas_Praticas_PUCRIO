@@ -132,11 +132,11 @@ Alguns crimes apresentam maior variabilidade, porém sem métrica formal de vola
 ---
 
 ##  8. Estrutura do Repositório
-├── 1 - Notebooks/
+├── Arquivos/
 
-├── 2 - Arquivos/
+├── Notebooks/
 
-├── 3 - README.md
+├── README.md
 
 ---
 
